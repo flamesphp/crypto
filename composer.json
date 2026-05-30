@@ -1,0 +1,11 @@
+{
+  "name": "flamesphp/crypto",
+  "description": "Flames: Crypto",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "MIT",
+  "require": {
+    "php": "^8.3"
+  }
+}
+
